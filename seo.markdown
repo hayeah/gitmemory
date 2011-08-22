@@ -1,2 +1,5 @@
 [HTML Title](http://www.seomoz.org/learn-seo/title-tag)
-    If it is a well known brand, and it can make a difference in click-through rates in search results, the brand name should be first. If this is not the case, the keyword should be first.
+
+    If it is a well known brand, and it can make a difference in click-through
+    rates in search results, the brand name should be first. If this is not the
+    case, the keyword should be first.
