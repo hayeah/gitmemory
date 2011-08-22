@@ -1,5 +1,12 @@
 # SEO
 
+## Beginner's Guide
+
+[http://www.seomoz.org/beginners-guide-to-seo](seomoz's guide)
+
+Search Engine Market Share
+![search engine pie](http://cdn.seomoz.org/img/beginners/Pie.png)
+
 ## Keyword Position in Title
 
 Keywords should come first.
