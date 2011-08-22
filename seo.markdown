@@ -4,7 +4,7 @@
 
 [http://www.seomoz.org/beginners-guide-to-seo](seomoz's guide)
 
-Search Engine Market Share
+##Search Engine Market Share
 ![search engine pie](http://cdn.seomoz.org/img/beginners/Pie.png)
 
 ## Keyword Position in Title
