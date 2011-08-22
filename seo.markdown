@@ -1,3 +1,14 @@
+# SEO
+
+## Keyword Position in Title
+
+Keywords should come first.
+
+![Keyword Position and Weight](http://www.seomoz.org/img/upload/title-tags-correlation.gif)
+
+Some people recommends putting branding first. But unless you have a well known
+brand, put keywords first would help more.
+
 [HTML Title](http://www.seomoz.org/learn-seo/title-tag)
 
     If it is a well known brand, and it can make a difference in click-through
