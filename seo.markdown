@@ -2,7 +2,7 @@
 
 ## Beginner's Guide
 
-[http://www.seomoz.org/beginners-guide-to-seo](seomoz's guide)
+[seomoz's guide](http://www.seomoz.org/beginners-guide-to-seo)
 
 ##Search Engine Market Share
 ![search engine pie](http://cdn.seomoz.org/img/beginners/Pie.png)
