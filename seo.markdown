@@ -3,7 +3,7 @@
 
 [all you need to know about page optimization](http://www.seomoz.org/blog/perfecting-keyword-targeting-on-page-optimization)
 
-[seo factors](http://www.seomoz.org/img/upload/google-ranking-algo-survey.gif)
+![seo factors](http://www.seomoz.org/img/upload/google-ranking-algo-survey.gif)
 
 ## Beginner's Guide
 
